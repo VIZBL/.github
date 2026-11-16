@@ -2,7 +2,7 @@
 
 **Product visualization for e-commerce.** Vizbl lets shoppers see products in their own space and on their own photos, using 3D, AR and AI. Merchants add it to a store with a widget, an SDK or an API.
 
-[Website](https://vizbl.com) · [Developer docs](https://developer.vizbl.com) · [Help center](https://help.vizbl.com) · [info@vizbl.com](mailto:info@vizbl.com)
+[Website](https://vizbl.com) · [Developer docs](https://developer.vizbl.com) · [Help center](https://vizbl.com/helpcenter) · [info@vizbl.com](mailto:info@vizbl.com)
 
 ## Products
 
@@ -35,4 +35,4 @@
 
 ## Support
 
-Questions and bug reports: [help.vizbl.com](https://help.vizbl.com) or [info@vizbl.com](mailto:info@vizbl.com).
+Guides and answers: [vizbl.com/helpcenter](https://vizbl.com/helpcenter). Support tickets: [help.vizbl.com](https://help.vizbl.com) (sign-in required) or [info@vizbl.com](mailto:info@vizbl.com).
