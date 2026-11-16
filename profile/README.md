@@ -23,7 +23,8 @@
 | iOS SDK (Swift Package) | [vizbl-ios-sdk](https://github.com/VIZBL/vizbl-ios-sdk) · [demo app](https://github.com/VIZBL/vizbl-ios-demo) | [iOS guide](https://developer.vizbl.com/docs/ios) |
 | Android SDK | [vizbl-android-sdk](https://github.com/VIZBL/vizbl-android-sdk) | [Android guide](https://developer.vizbl.com/docs/android) |
 | Node.js SDK | [`@vizbl/node`](https://www.npmjs.com/package/@vizbl/node) | [Developer docs](https://developer.vizbl.com) |
-| MCP server for AI assistants | [`@vizbl/mcp`](https://www.npmjs.com/package/@vizbl/mcp) | [MCP guide](https://developer.vizbl.com/docs/mcp) |
+| MCP connector for AI assistants (remote, OAuth) | `https://mcp.vizbl.com/mcp` | [MCP guide](https://developer.vizbl.com/docs/mcp) |
+| Local MCP server (stdio) | [`@vizbl/mcp`](https://www.npmjs.com/package/@vizbl/mcp) | [MCP guide](https://developer.vizbl.com/docs/mcp) |
 | Web components | — | [Developer docs](https://developer.vizbl.com) |
 
 ## Get started
