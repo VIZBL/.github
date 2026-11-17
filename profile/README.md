@@ -37,4 +37,4 @@
 
 ## Support
 
-Guides and answers: [vizbl.com/helpcenter](https://vizbl.com/helpcenter). Support tickets: [help.vizbl.com](https://help.vizbl.com) (sign-in required) or [info@vizbl.com](mailto:info@vizbl.com).
+Guides and answers: [vizbl.com/helpcenter](https://vizbl.com/helpcenter). Support requests: [support.vizbl.com](https://support.vizbl.com/support/form/createTicket/MQ%253D%253D) or [info@vizbl.com](mailto:info@vizbl.com).
